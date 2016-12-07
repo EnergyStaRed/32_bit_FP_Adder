@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/simulation_excercise
+vfpadder_behav
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1481139374
+!i10b 1
+!s100 gMoId=SUGa:YX1C:HSR061
+IZ@76H;gN>VCmK70RPaiWE3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 fpadder_behav_sv_unit
+S1
+Z3 dC:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder
+w1481137854
+8C:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/fpadder_behav.sv
+FC:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/fpadder_behav.sv
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1481139374.000000
+!s107 C:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/fpadder_behav.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/fpadder_behav.sv|
+!s101 -O0
+!i113 1
+Z5 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtest_fpadder
+R0
+R1
+!i10b 1
+!s100 5fWHBM4IIj>4ce3ZWKcaN1
+IWiXdc=i^:Mb[;GT0^DN;M1
+R2
+!s105 test_fpadder_sv_unit
+S1
+R3
+w1481138399
+8C:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/test_fpadder.sv
+FC:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/test_fpadder.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481139373.000000
+!s107 C:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/test_fpadder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/test_fpadder.sv|
+!s101 -O0
+!i113 1
+R5

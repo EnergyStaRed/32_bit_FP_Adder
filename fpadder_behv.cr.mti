@@ -1,0 +1,15 @@
+C:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/test_fpadder.sv {1 {vlog -work work -sv -stats=none C:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/test_fpadder.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_fpadder
+
+Top level modules:
+	test_fpadder
+
+} {} {}} C:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/fpadder_behav.sv {1 {vlog -work work -sv -stats=none C:/Users/uviss/OneDrive/Dokumenti/Digital_System_Design/FP_Adder/32_bit_FP_Adder/fpadder_behav.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fpadder_behav
+
+Top level modules:
+	fpadder_behav
+
+} {} {}}
