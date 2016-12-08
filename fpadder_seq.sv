@@ -10,4 +10,14 @@ module fpadder(output logic [31:0] sum, output logic ready,
 			else
 				Present_State <= Next_State;
 		end
+		
+	always_comb
+		begin: COM
+			ready = '0;
+			
+			unique case(Present_State)
+				Init:	begin
+							Next_State = wait_ready;
+						end
+		end
 endmodule
